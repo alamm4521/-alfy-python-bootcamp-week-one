@@ -1,2 +1,6 @@
-# -alfy-python-bootcamp-week-one
- alfy-python-bootcamp
+# alfy-python-bootcamp-week-one
+
+
+Assignment name: Hello GitHub
+ 
+ 
